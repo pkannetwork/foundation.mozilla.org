@@ -1,10 +1,10 @@
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-13 16:25+0000\n"
-"PO-Revision-Date: 2019-12-09 17:28+0000\n"
+"PO-Revision-Date: 2020-01-07 15:15+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: network-api/networkapi/templates/404.html:4
 msgid "Page Not Found"
-msgstr "Page introuvable"
+msgstr "Pageintrouvable"
 
 #: network-api/networkapi/templates/fragments/language_switcher.html:6
 msgid "Language"
